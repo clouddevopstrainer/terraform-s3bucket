@@ -1,1 +1,1 @@
-bucket_name = "my-unique-bucket-namenew"  # You can change the bucket name here
+bucket_name = "my-unique-bucket-name-new"  # You can change the bucket name here
